@@ -6,6 +6,9 @@
   <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/BannerCurso.png width="80%">
 </div>
 
+<!-- Plantilla para videos de Youtube 
+[![Alt text](https://img.youtube.com/vi/XXXXXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXX)
+-->
  
 Los recientes desarrollos de nuevos materiales, como compuestos, plásticos, cerámicos de ingeniería y aleaciones metálicas, son de gran importancia para la industria. De acuerdo con lo anterior, el análisis de estos materiales teniendo en cuenta sus prestaciones es relevante desde el punto de vista de una correcta selección y el comportamiento en servicio.
 La selección de materiales, el análisis de falla y los ensayos no destructivos deben hacerse con base en una metodología válida que abarque los diversos estudios de materiales en ingeniería. Por tanto, es necesario que los ingenieros posean los conocimientos acerca de las técnicas de análisis y evaluación de materiales en servicio.
