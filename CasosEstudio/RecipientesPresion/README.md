@@ -1,6 +1,6 @@
 ## Recipientes a presión seguros[^1]
 
-Los recipientes a presión, desde la lata de pintura más sencilla hasta la caldera más grande, son diseñados, por seguridad, para ceder o fugar antes de romperse. Los detalles de este método de diseño varían. Los recipientes a presión pequeños suelen diseñarse para permitir la fluencia general a una presión aún demasiado baja para provocar la propagación de cualquier grieta que pueda contener el recipiente (“Yield before break”); la distorsión causada por la fluencia es facil de detectar y la presión puede ser liberada de forma segura. Con recipientes a presión de gran tamaño esto puede no ser posible. Sin embargo, el diseño seguro es alcanzado al asegurar que la grieta más pequeña que se propagará de forma inestable tiene una longitud mayor al espesor de la pared del recipiente (“Leak before break”); la fuga es detectada fácilmente, y liberará la presión gradualmente y por tanto de forma segura (Tabla 6.19). Los dos criterios llevan a diferenciar los índices de materiales. ¿Que son?  
+Los recipientes a presión, desde la lata de pintura más sencilla hasta la caldera más grande, son diseñados, por seguridad, para ceder o fugar antes de romperse. Los detalles de este método de diseño varían. Los recipientes a presión pequeños suelen diseñarse para permitir la fluencia general a una presión aún demasiado baja para provocar la propagación de cualquier grieta que pueda contener el recipiente (“Yield before break”); la distorsión causada por la fluencia es fácil de detectar y la presión puede ser liberada de forma segura. Con recipientes a presión de gran tamaño esto puede no ser posible. Sin embargo, el diseño seguro es alcanzado al asegurar que la grieta más pequeña que se propagará de forma inestable tiene una longitud mayor al espesor de la pared del recipiente (“Leak before break”); la fuga es detectada fácilmente, y liberará la presión gradualmente y por tanto de forma segura (Tabla 6.19). Los dos criterios llevan a diferenciar los índices de materiales. ¿Que son?  
   
 <div align="center">
   <sup>
@@ -16,12 +16,12 @@ Los recipientes a presión, desde la lata de pintura más sencilla hasta la cald
 | Variables libres  | *Selección del material* |
 
 <div align="center">
-  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/CasosEstudio/RecipientesPresion/Imagenes/Figura%20619.JPG width=40%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/RecipientesPresion/Imagenes/Figura%20619.JPG width=40%"></br>
 </div>
 
 <div align="center">
   <sub>
-      Figura 6.19: Un recipiente a presión que contiene un defecto. El diseño seguro de los recipientes a presión pequeños requiere que cedan antes de romperse; el de los          recipientes a presión grandes puede requerir, en cambio que tengan fugas antes de romperse.
+     Figura 6.19: Un recipiente a presión que contiene un defecto. El diseño seguro de los recipientes a presión pequeños requiere que cedan antes de romperse; el de los recipientes a presión grandes puede requerir, en cambio que tengan fugas antes de romperse.
   </sub>
 </div>
 
@@ -84,7 +84,7 @@ El criterio de fuga antes de rotura
 Favorece aceros de baja aleación, los aceros inoxidables y los aceros al carbono, pero no cambia mucho las conclusiones.
 
 <div align="center">
-  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/CasosEstudio/RecipientesPresion/Imagenes/CartaSeleccion.JPG width=75%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/RecipientesPresion/Imagenes/CartaSeleccion.JPG width=75%"></br>
 </div>
 
 <div align="center">
@@ -118,4 +118,4 @@ Las averías en las calderas solían ser habituales, incluso hay canciones sobre
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 ##
-  <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+  <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
