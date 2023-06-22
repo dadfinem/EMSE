@@ -28,7 +28,7 @@ Además, se desea entender las implicaciones técnicas y la importancia tecnoló
 
 ## Selección de Materiales para el Diseño de Componentes
 
-En esta primera sección se explora la seleccion de materiales para el diseño de componentes desde una revisión general a las diferentes familias de materiales, las caracteristicas que los hacen deseables en el diseño de ingeniería, metodología de selección de materiales y algunas herramientas para realizar una correcta selección de material.
+En esta primera sección se explora la selección de materiales para el diseño de componentes desde una revisión general a las diferentes familias de materiales, las características que los hacen deseables en el diseño de ingeniería, metodología de selección de materiales y algunas herramientas para realizar una correcta selección de material.  
 
 <div align="center">
   
