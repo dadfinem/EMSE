@@ -1,8 +1,9 @@
 ## Selección de materiales para minimizar la distorsión térmica en dispositivos de presición[^1]
 
-La precisión de un dispositivo de medición, como un medidor de desplazamiento submicrométrico, está limitada por su rigidez y por el cambio dimensional provocado por los gradientes de temperatura. Es posible compensar la desviación elástica y realizar correcciones para hacer frente a la dilatación térmica, siempre que el dispositivo esté a una temperatura uniforme. Los gradientes térmicos son el verdadero problema: provocan un cambio de forma, es decir, una deformación del dispositivo, que no se puede compensar. La sensibilidad a las vibraciones también es un problema: la excitación natural introduce ruido y, por tanto, imprecisión en la medición. Por tanto es permisible que se produzca una expansión al realizar diseño de instrumentos de precisión, siempre que no se produzca distorsión (Chetwynd, 1987). Se permite la deflexión elástica siempre que las frecuencias naturales de vibración sean altas.
+La precisión de un dispositivo de medición, como un medidor de desplazamiento submicrométrico, está limitada por su rigidez y por el cambio dimensional provocado por los gradientes de temperatura. Es posible compensar la desviación elástica y realizar correcciones para hacer frente a la dilatación térmica, siempre que el dispositivo esté a una temperatura uniforme. Los gradientes térmicos son el verdadero problema: provocan un cambio de forma, es decir, una deformación del dispositivo, que no se puede compensar. La sensibilidad a las vibraciones también es un problema: la excitación natural introduce ruido y, por tanto, imprecisión en la medición. Por tanto, es permisible que se produzca una expansión al realizar diseño de instrumentos de precisión, siempre que no se produzca distorsión (Chetwynd, 1987). Se permite la deflexión elástica siempre que las frecuencias naturales de vibración sean altas.
 
-Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precisión? La tabla 6.29 enumera los requisitos.
+Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precisión? La tabla 6.29 enumera los requisitos. 
+
 
 <div align="center">
   <sup>
@@ -18,7 +19,7 @@ Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precis
 | Variables libres  | *Selección del material* |
 
 <div align="center">
-  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/CasosEstudio/DistorsionTermica/Imagenes/Figura%20629.JPG width=40%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/DistorsionTermica/Imagenes/Figura%20629.JPG width=40%"></br>
 </div>
 
 <div align="center">
@@ -56,7 +57,7 @@ Un valor alto de este índice minimizará el problema. Por último, el dispositi
 La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficamente frente a la conductividad térmica, λ. Los contornos muestran valores constantes de la cantidad λ/α. Una región de búsqueda está aislada por la línea λ/α = 10<sup>7</sup>W/m, dando la pequeña lista de la tabla 6.30. Los valores de M<sub>2</sub> = E<sup>1/2</sup>/ρ leídos en el gráfico E-ρ de la figura 4.3 se incluyen en la tabla. Entre los metales, el cobre, el tungsteno y la aleación especial de níquel Invar presentan los mejores valores de M<sub>1</sub>, pero tienen la desventaja de tener densidades elevadas y, por tanto, valores pobres de M<sub>2</sub>. La mejor elección es el silicio, disponible en grandes secciones y de gran pureza. El carburo de silicio es una alternativa.
     
 <div align="center">
-  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/CasosEstudio/DistorsionTermica/Imagenes/CartaDistorsionTermica.JPG width=75%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/DistorsionTermica/Imagenes/CartaDistorsionTermica.JPG width=75%"></br>
 </div>
 
 <div align="center">
@@ -81,11 +82,11 @@ La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficam
 
 ### Posdata
 
-Los sistemas de medición e imagen a escala nanométrica presentan el problema analizado aquí. El microscopio de fuerza atómica y el microscopio de túnel de barrido se basan en una sonda apoyada en un bucle de fuerza, normalmente con un actuador piezoeléctrico y un sistema electrónico que detecta la proximidad de la sonda a la superficie. Más cerca de casa, el mecanismo de una grabadora de vídeo y el de una unidad de disco duro son instrumentos de precisión; ambos tienen un sensor (el cabezal de lectura) unido , con su electrónica asociada, a un bucle de fuerza. Los materiales identificados en este estudio son la mejor elección para el bucle de fuerza.
+Los sistemas de medición e imagen a escala nanométrica presentan el problema analizado aquí. El microscopio de fuerza atómica y el microscopio de túnel de barrido se basan en una sonda apoyada en un bucle de fuerza, normalmente con un actuador piezoeléctrico y un sistema electrónico que detecta la proximidad de la sonda a la superficie. Más cerca de casa, el mecanismo de una grabadora de vídeo y el de una unidad de disco duro son instrumentos de precisión; ambos tienen un sensor (el cabezal de lectura) unido, con su electrónica asociada, a un bucle de fuerza. Los materiales identificados en este estudio son la mejor elección para el bucle de fuerza.  
     
     
 
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 ##
-  <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+  <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
