@@ -11,7 +11,9 @@ Durante la Segunda Guerra Mundial, una clase de barco mercante soldado sufrió g
 
 Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta de que el diseño exigía una resistencia a la fatiga atribuido al diseño de los marcos de las ventanas.
 
-[![Alt text](https://img.youtube.com/vi/v0Cg2ZeYa5E/0.jpg)](https://www.youtube.com/watch?v=v0Cg2ZeYa5E)
+<div align="center">
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Avion.png width=40%"></br>
+</div>
 
 ### Propiedades Comunes de los materiales[^1]
 
