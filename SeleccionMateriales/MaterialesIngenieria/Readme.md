@@ -9,7 +9,7 @@ Durante la Segunda Guerra Mundial, una clase de barco mercante soldado sufrió g
 </div>
 </div>
 
-Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta de que el diseño exigía una resistencia a la fatiga que -dado el diseño de los marcos de las ventanas.
+Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta de que el diseño exigía una resistencia a la fatiga atribuido al diseño de los marcos de las ventanas.
 
 [![Alt text](https://img.youtube.com/vi/v0Cg2ZeYa5E/0.jpg)](https://www.youtube.com/watch?v=v0Cg2ZeYa5E)
 
