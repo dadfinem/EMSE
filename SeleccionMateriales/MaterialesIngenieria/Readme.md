@@ -5,13 +5,14 @@ Se dice que hay más de 50.000 materiales disponibles para el ingeniero. Al dise
 Durante la Segunda Guerra Mundial, una clase de barco mercante soldado sufrió grandes pérdidas, no por el ataque enemigo, sino por romperse por la mitad en el mar: la resistencia a la fractura del acero - y, en particular, de las soldaduras 1-1 era demasiado baja.
   
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Avion.png width=40%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Barco.jpg  width="30%"></br>
+</div>
 </div>
 
 Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta de que el diseño exigía una resistencia a la fatiga que -dado el diseño de los marcos de las ventanas.
 
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Barco.jpg  width="30%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Avion.png width=40%"></br>
 </div>
 
 ### Propiedades Comunes de los materiales[^1]
