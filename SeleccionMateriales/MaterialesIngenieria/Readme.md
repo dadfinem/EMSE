@@ -387,7 +387,7 @@ Mas componentes de ingeniería están hechos de metales y aleaciones que de cual
 - **_El módulo elástico_** (unidades: GPa o GN/m2) se define como la pendiente de la parte elástica lineal de la curva de esfuerzo-deformación. El módulo de Young, E, describe la respuesta a la carga de tracción o compresión, el módulo de cizallamiento, G, describe la carga de cizallamiento y el módulo de volumen, K, la presión hidrostática. La curva de esfuerzo-deformación de un metal, que muestra el módulo, E, el 0,2 por ciento de resistencia a la tracción, y, la resistencia final, σu
     
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes EsfuerzoDeformacion.png width="30%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/EsfuerzoDeformacion.png width="30%"></br>
 </div>
     
 Curvas de esfuerzo-deformación para un polímero, por debajo, y por encima de su temperatura de transición vítrea, Tg.
