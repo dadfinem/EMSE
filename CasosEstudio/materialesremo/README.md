@@ -1,18 +1,34 @@
 ## Materiales para Remos[^1]
 
-Antes de la energía de vapor, los barcos podían propulsarse a remo, a vela ,o con remos. Los remos ofrecían más control que los otros dos, cuyo potencial militar fue bien comprendido por los romanos., los vikingos y los venecianos. Poco a poco fueron participando caballeros(sobre todo los jóvenes caballeros de Oxford y Cambridge), sofisticando tantolas reglas y el equipamiento. El verdadero estímulo para el desarrollo de la barca y el remo llegó en 1900 con la proclamación del remo como deporte olímpico. Desde entonces ambos han aprovechado al máximo la artesanía y los materiales de su época. Pensemos, por ejemplo, en el remo.
+Antes de la energía de vapor, los barcos podían propulsarse, a vela ,o con remos. Los remos ofrecían más control que los otros dos, cuyo potencial militar fue bien comprendido por los romanos., los vikingos y los venecianos. Poco a poco fueron participando caballeros(sobre todo los jóvenes caballeros de Oxford y Cambridge), sofisticando tantolas reglas y el equipamiento. El verdadero estímulo para el desarrollo de la barca y el remo llegó en 1900 con la proclamación del remo como deporte olímpico. Desde entonces ambos han aprovechado al máximo la artesanía y los materiales de su época. Pensemos, por ejemplo, en el remo.
+
+### El Modelo
 
 Mecánicamente hablando, un remo es una viga, cargada en flexión, debe ser lo bastante fuerte para soportar, sin romperse, el momento flexión ejercido por el remero, debe tener una rigidez que se ajuste a las características del remero y proporcionarle la ''sensación'' adecuada y, lo que es muy importante, ser lo más ligera posible.
-Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elástica especificada bajo una carga determinada. 
+Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elástica especificada bajo una carga determinada.
 
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=80%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=90%"></br>
 </div>
 
+### Un remo se diseña en función de la rigidez y peso lijero
 
+La parte superior de la figura muestra un remo: una pala o ''cuchara'' está unida a u un eje o ''telar'' que lleva un manguito y un collarín para proporcionar una posición en la esclusa. 
+La parte inferior de la figura muestra cómo se mide la rigidez del remo:
 
-  
-  
+Se cuelga un peso de 10 kg en el remo a 2,05 m del collarín y se mide la deflexión en este punto. Un remo blando se desviará casi 50 mm; uno duro, sólo 30mm.
+
+Cuando un remero encarga un remo, especifica su dureza. El remo también debe ser ligero; el peso extra aumenta el área mojada del casco y la resistencia que con lleva. 
+
+Así que ya lo tenemos: un remo es una viga rígida y un peso mínimo. El índice de material que queremos:
+
+$\ M=\frac{E}{ρ} $
+
+Donde: E es el módulo de Young y ρ es la densidad. 
+Hay otras limitaciones los remos se caen y las palas a veces chocan. 
+
+El material debe ser lo suficientemente resistente como para resistirlo, por lo que los materiales quebradizos (aquellos con una tenacidad G1C inferior a 1 kJ/m2 ) son inaceptables. Teniendo en cuenta estos requisitos, resumidos en Tabla 6.1, ¿qué materiales elegiría para fabricar remos?
+
 <div align="center">
   <sup>
       Tabla 6.19: Requisitos de diseño para recipientes a presión seguros
