@@ -15,7 +15,7 @@ Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elást
 
 <div align="center">
   <sub>
-      Figura: Un remo se diseña en función de la rigidez y peso lijero.
+     Un remo se diseña en función de la rigidez y peso lijero.
   </sub>
 </div>
 
@@ -62,7 +62,7 @@ Contienen tres clases de materiales maderas, polímeros reforzados con carbono y
 
 <div align="center">
   <sup>
-      Tabla 6.19: Requisitos de diseño para recipientes a presión seguros
+      Tabla: Requisitos de diseño para recipientes a presión seguros
   </sup>
 </div>
 
