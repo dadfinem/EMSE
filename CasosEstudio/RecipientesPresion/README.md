@@ -27,7 +27,7 @@ Los recipientes a presión, desde la lata de pintura más sencilla hasta la cald
 
 ### El modelo
 
-El esfuerzo en la pared de un recipiente a presión esférico de pared delgada con radio R (Figura 6.19) es: 
+El esfuerzo en la pared de un recipiente a presión esférico de pared delgada con radio R (Figura 3) es: 
    
   $\ σ=\frac{pR}{2t} $
 
@@ -55,7 +55,7 @@ Los recipientes a presión de gran tamaño no siempre pueden someterse a rayos X
 
   $\ \sigma = \frac{CK_{1C}}{\sqrt{\frac{\pi t}{2}}} $
     
-El espesor de pared t del recipiente a presión se diseñó, por supuesto, para contener la presión p sin ceder. De la ecuación (6.38) se deduce que
+El espesor de pared t del recipiente a presión se diseñó, por supuesto, para contener la presión p sin ceder. De la ecuación se deduce que
 
   $\ t \geq \frac{pR}{2\sigma _{f}} $
     
