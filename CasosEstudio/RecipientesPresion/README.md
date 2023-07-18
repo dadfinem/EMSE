@@ -75,7 +75,7 @@ reducir aún más la elección del material
 
 ### La selección. 
     
-Estos criterios de selección se exploran utilizando el gráfico que se muestra en la figura 3: la tenacidad a la fractura, K<sub> 1C </sub>, representada gráficamente frente al límite elástico σ<sub> f </sub>. Los índices M <sub> 1 </sub>, M<sub> 2 </sub>, M<sub> 3 </sub> y M<sub> 4 </sub> aparecen como líneas de pendiente 0, 1, 1/2 y como líneas verticales. Tomemos como ejemplo el "límite elástico antes de la rotura". Una línea diagonal que corresponde a un valor constante de M<sub> 1 </sub> = K<sub> 1C </sub>/ σ<sub> f </sub> une materiales con igual rendimiento; los que están por encima de la línea son mejores. La línea que se muestra en la figura en M<sub> 1 </sub> = 0,6 m<sup> 1/2 </sup> (correspondiente a una zona de proceso de tamaño 100 mm) excluye los aceros más resistentes, el cobre, el aluminio y las aleaciones de titanio, aunque algunos polímeros casi lo consiguen. algunos polímeros casi lo consiguen (los envases de limonada y cerveza a presión están a presión). Una segunda línea de selección a M<sub> 3 </sub> = 50 MPa elimina las aleaciones de aluminio. Los detalles figuran en la tabla 6.20.
+Estos criterios de selección se exploran utilizando el gráfico que se muestra en la figura 3: la tenacidad a la fractura, K<sub> 1C </sub>, representada gráficamente frente al límite elástico σ<sub> f </sub>. Los índices M <sub> 1 </sub>, M<sub> 2 </sub>, M<sub> 3 </sub> y M<sub> 4 </sub> aparecen como líneas de pendiente 0, 1, 1/2 y como líneas verticales. Tomemos como ejemplo el "límite elástico antes de la rotura". Una línea diagonal que corresponde a un valor constante de M<sub> 1 </sub> = K<sub> 1C </sub>/ σ<sub> f </sub> une materiales con igual rendimiento; los que están por encima de la línea son mejores. La línea que se muestra en la figura en M<sub> 1 </sub> = 0,6 m<sup> 1/2 </sup> (correspondiente a una zona de proceso de tamaño 100 mm) excluye los aceros más resistentes, el cobre, el aluminio y las aleaciones de titanio, aunque algunos polímeros casi lo consiguen. algunos polímeros casi lo consiguen (los envases de limonada y cerveza a presión están a presión). Una segunda línea de selección a M<sub> 3 </sub> = 50 MPa elimina las aleaciones de aluminio. Los detalles figuran en la tabla 3.
     
 El criterio de fuga antes de rotura
 
@@ -89,7 +89,7 @@ Favorece aceros de baja aleación, los aceros inoxidables y los aceros al carbon
 
 <div align="center">
   <sub>
-      Figura 3: Materiales para recipientes a presión. El acero, las aleaciones de cobre y las aleaciones de aluminio cumplen mejor el criterio de criterio de "límite elástico antes de la rotura". Además, un alto límite elástico permite una alta presión de trabajo. Los materiales del triángulo ''zonas de búsqueda'' son la mejor elección. El criterio ''fuga antes de rotura'' conduce esencialmente a la misma selección.
+      Figura 4: Materiales para recipientes a presión. El acero, las aleaciones de cobre y las aleaciones de aluminio cumplen mejor el criterio de criterio de "límite elástico antes de la rotura". Además, un alto límite elástico permite una alta presión de trabajo. Los materiales del triángulo ''zonas de búsqueda'' son la mejor elección. El criterio ''fuga antes de rotura'' conduce esencialmente a la misma selección.
   </sub>
 </div>
 
