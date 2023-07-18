@@ -11,8 +11,6 @@ Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elást
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=40%"></br>
 </div>
 
-
-
 <div align="center">
   <sub>
      Un remo se diseña en función de la rigidez y peso lijero.
