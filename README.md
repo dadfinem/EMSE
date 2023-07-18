@@ -37,7 +37,7 @@ En esta primera sección se explora la selección de materiales para el diseño 
   
   | Tema | Alcance |
   | --- | --- |
-  | [Materiales de Ingeniería](SeleccionMateriales/MaterialesIngenieria) | Se describe el uso de los materiales en la ingeniería, su calsificación, sus propiedades y como estas se relacionan con su función |
+  | [Materiales de Ingeniería](SeleccionMateriales/MaterialesIngenieria) | Se describe el uso de los materiales en la ingeniería, su clasificación, sus propiedades y como estas se relacionan con su función |
   | [Seleción de Materiales](SeleccionMateriales/SeleccionMateriales) | Se presenta una metodología para la correcta seleción de materiales en el diseño dentro de la ingeniería |
   | [Cartas de Propiedades de los Materiales](SeleccionMateriales/CartasPropiedades) | Se describen diferentes cartas de propiedades de materiales y como se pueden utilizar para la selección de materiales en ingeniería |
   
