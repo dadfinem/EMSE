@@ -1,10 +1,10 @@
 ## Recipientes a presión seguros[^1]
 
-Los recipientes a presión, desde la lata de pintura más sencilla hasta la caldera más grande, son diseñados, por seguridad, para ceder o fugar antes de romperse. Los detalles de este método de diseño varían. Los recipientes a presión pequeños suelen diseñarse para permitir la fluencia general a una presión aún demasiado baja para provocar la propagación de cualquier grieta que pueda contener el recipiente (“Yield before break”); la distorsión causada por la fluencia es fácil de detectar y la presión puede ser liberada de forma segura. Con recipientes a presión de gran tamaño esto puede no ser posible. Sin embargo, el diseño seguro es alcanzado al asegurar que la grieta más pequeña que se propagará de forma inestable tiene una longitud mayor al espesor de la pared del recipiente (“Leak before break”); la fuga es detectada fácilmente, y liberará la presión gradualmente y por tanto de forma segura (Tabla 6.19). Los dos criterios llevan a diferenciar los índices de materiales. ¿Que son?  
+Los recipientes a presión, desde la lata de pintura más sencilla hasta la caldera más grande, son diseñados, por seguridad, para ceder o fugar antes de romperse. Los detalles de este método de diseño varían. Los recipientes a presión pequeños suelen diseñarse para permitir la fluencia general a una presión aún demasiado baja para provocar la propagación de cualquier grieta que pueda contener el recipiente (“Yield before break”); la distorsión causada por la fluencia es fácil de detectar y la presión puede ser liberada de forma segura. Con recipientes a presión de gran tamaño esto puede no ser posible. Sin embargo, el diseño seguro es alcanzado al asegurar que la grieta más pequeña que se propagará de forma inestable tiene una longitud mayor al espesor de la pared del recipiente (“Leak before break”); la fuga es detectada fácilmente, y liberará la presión gradualmente y por tanto de forma segura (tabla 2). Los dos criterios llevan a diferenciar los índices de materiales. ¿Que son?  
   
 <div align="center">
   <sup>
-      Tabla 6.19: Requisitos de diseño para recipientes a presión seguros
+      Tabla 2: Requisitos de diseño para recipientes a presión seguros
   </sup>
 </div>
 
@@ -21,7 +21,7 @@ Los recipientes a presión, desde la lata de pintura más sencilla hasta la cald
 
 <div align="center">
   <sub>
-     Figura 6.19: Un recipiente a presión que contiene un defecto. El diseño seguro de los recipientes a presión pequeños requiere que cedan antes de romperse; el de los recipientes a presión grandes puede requerir, en cambio que tengan fugas antes de romperse.
+     Figura 3: Un recipiente a presión que contiene un defecto. El diseño seguro de los recipientes a presión pequeños requiere que cedan antes de romperse; el de los recipientes a presión grandes puede requerir, en cambio que tengan fugas antes de romperse.
   </sub>
 </div>
 
@@ -75,7 +75,7 @@ reducir aún más la elección del material
 
 ### La selección. 
     
-Estos criterios de selección se exploran utilizando el gráfico que se muestra en la figura 6.20: la tenacidad a la fractura, K<sub> 1C </sub>, representada gráficamente frente al límite elástico σ<sub> f </sub>. Los índices M <sub> 1 </sub>, M<sub> 2 </sub>, M<sub> 3 </sub> y M<sub> 4 </sub> aparecen como líneas de pendiente 0, 1, 1/2 y como líneas verticales. Tomemos como ejemplo el "límite elástico antes de la rotura". Una línea diagonal que corresponde a un valor constante de M<sub> 1 </sub> = K<sub> 1C </sub>/ σ<sub> f </sub> une materiales con igual rendimiento; los que están por encima de la línea son mejores. La línea que se muestra en la figura en M<sub> 1 </sub> = 0,6 m<sup> 1/2 </sup> (correspondiente a una zona de proceso de tamaño 100 mm) excluye los aceros más resistentes, el cobre, el aluminio y las aleaciones de titanio, aunque algunos polímeros casi lo consiguen. algunos polímeros casi lo consiguen (los envases de limonada y cerveza a presión están a presión). Una segunda línea de selección a M<sub> 3 </sub> = 50 MPa elimina las aleaciones de aluminio. Los detalles figuran en la tabla 6.20.
+Estos criterios de selección se exploran utilizando el gráfico que se muestra en la figura 3: la tenacidad a la fractura, K<sub> 1C </sub>, representada gráficamente frente al límite elástico σ<sub> f </sub>. Los índices M <sub> 1 </sub>, M<sub> 2 </sub>, M<sub> 3 </sub> y M<sub> 4 </sub> aparecen como líneas de pendiente 0, 1, 1/2 y como líneas verticales. Tomemos como ejemplo el "límite elástico antes de la rotura". Una línea diagonal que corresponde a un valor constante de M<sub> 1 </sub> = K<sub> 1C </sub>/ σ<sub> f </sub> une materiales con igual rendimiento; los que están por encima de la línea son mejores. La línea que se muestra en la figura en M<sub> 1 </sub> = 0,6 m<sup> 1/2 </sup> (correspondiente a una zona de proceso de tamaño 100 mm) excluye los aceros más resistentes, el cobre, el aluminio y las aleaciones de titanio, aunque algunos polímeros casi lo consiguen. algunos polímeros casi lo consiguen (los envases de limonada y cerveza a presión están a presión). Una segunda línea de selección a M<sub> 3 </sub> = 50 MPa elimina las aleaciones de aluminio. Los detalles figuran en la tabla 6.20.
     
 El criterio de fuga antes de rotura
 
@@ -89,7 +89,7 @@ Favorece aceros de baja aleación, los aceros inoxidables y los aceros al carbon
 
 <div align="center">
   <sub>
-      Figura 6.20: Materiales para recipientes a presión. El acero, las aleaciones de cobre y las aleaciones de aluminio cumplen mejor el criterio de criterio de "límite elástico antes de la rotura". Además, un alto límite elástico permite una alta presión de trabajo. Los materiales del triángulo ''zonas de búsqueda'' son la mejor elección. El criterio ''fuga antes de rotura'' conduce esencialmente a la misma selección.
+      Figura 3: Materiales para recipientes a presión. El acero, las aleaciones de cobre y las aleaciones de aluminio cumplen mejor el criterio de criterio de "límite elástico antes de la rotura". Además, un alto límite elástico permite una alta presión de trabajo. Los materiales del triángulo ''zonas de búsqueda'' son la mejor elección. El criterio ''fuga antes de rotura'' conduce esencialmente a la misma selección.
   </sub>
 </div>
 
@@ -97,7 +97,7 @@ Favorece aceros de baja aleación, los aceros inoxidables y los aceros al carbon
 
 <div align="center">
   <sup>
-      Tabla 6.20: Materiales para recipientes a presión seguros
+      Tabla 3: Materiales para recipientes a presión seguros
   </sup>
 </div>
 
