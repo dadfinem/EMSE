@@ -8,7 +8,7 @@ Mecánicamente hablando, un remo es una viga, cargada en flexión, debe ser lo b
 Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elástica especificada bajo una carga determinada.
 
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=90%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=40%"></br>
 </div>
 
 ### Un remo se diseña en función de la rigidez y peso lijero
