@@ -2,12 +2,12 @@
 
 La precisión de un dispositivo de medición, como un medidor de desplazamiento submicrométrico, está limitada por su rigidez y por el cambio dimensional provocado por los gradientes de temperatura. Es posible compensar la desviación elástica y realizar correcciones para hacer frente a la dilatación térmica, siempre que el dispositivo esté a una temperatura uniforme. Los gradientes térmicos son el verdadero problema: provocan un cambio de forma, es decir, una deformación del dispositivo, que no se puede compensar. La sensibilidad a las vibraciones también es un problema: la excitación natural introduce ruido y, por tanto, imprecisión en la medición. Por tanto, es permisible que se produzca una expansión al realizar diseño de instrumentos de precisión, siempre que no se produzca distorsión (Chetwynd, 1987). Se permite la deflexión elástica siempre que las frecuencias naturales de vibración sean altas.
 
-Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precisión? La tabla 6.29 enumera los requisitos. 
+Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precisión? La tabla 4 enumera los requisitos. 
 
 
 <div align="center">
   <sup>
-      Tabla 6.29: Requisitos de diseño de los dispositivos de precisión
+      Tabla 4: Requisitos de diseño de los dispositivos de precisión
   </sup>
 </div>
 
@@ -24,13 +24,13 @@ Entonces, ¿cuáles son los materiales adecuados para los dispositivos de precis
 
 <div align="center">
   <sub>
-      Figura 6.29: Esquema de un dispositivo de medición de precisión. Entre los dispositivos superprecisos son el microscopio de fuerza atómica y el microscopio de barrido en túnel.
+      Figura 5: Esquema de un dispositivo de medición de precisión. Entre los dispositivos superprecisos son el microscopio de fuerza atómica y el microscopio de barrido en túnel.
   </sub>
 </div>
 
 ### El modelo
 
-La figura 6.29 muestra, esquemáticamente, un dispositivo de este tipo: consta de un bucle de fuerza, un actuador y un sensor. Nuestro objetivo es elegir un material para el bucle de fuerza. En general, soportará fuentes de calor: los dedos del operario del dispositivo de la figura o, más habitualmente, componentes eléctricos que generan calor. El índice de material pertinente se obtiene considerando el caso simple de un flujo de calor unidimensional a través de una varilla aislada excepto en sus extremos, uno de los cuales está a temperatura ambiente y el otro conectado a la fuente de calor. En el estado estacionario la ley de Fourier es
+La figura 5 muestra, esquemáticamente, un dispositivo de este tipo: consta de un bucle de fuerza, un actuador y un sensor. Nuestro objetivo es elegir un material para el bucle de fuerza. En general, soportará fuentes de calor: los dedos del operario del dispositivo de la figura o, más habitualmente, componentes eléctricos que generan calor. El índice de material pertinente se obtiene considerando el caso simple de un flujo de calor unidimensional a través de una varilla aislada excepto en sus extremos, uno de los cuales está a temperatura ambiente y el otro conectado a la fuente de calor. En el estado estacionario la ley de Fourier es
 
   $\ q=-\lambda \frac{dT}{dx} $
     
@@ -54,7 +54,7 @@ Un valor alto de este índice minimizará el problema. Por último, el dispositi
 
 ### La selección
     
-La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficamente frente a la conductividad térmica, λ. Los contornos muestran valores constantes de la cantidad λ/α. Una región de búsqueda está aislada por la línea λ/α = 10<sup>7</sup>W/m, dando la pequeña lista de la tabla 6.30. Los valores de M<sub>2</sub> = E<sup>1/2</sup>/ρ leídos en el gráfico E-ρ de la figura 4.3 se incluyen en la tabla. Entre los metales, el cobre, el tungsteno y la aleación especial de níquel Invar presentan los mejores valores de M<sub>1</sub>, pero tienen la desventaja de tener densidades elevadas y, por tanto, valores pobres de M<sub>2</sub>. La mejor elección es el silicio, disponible en grandes secciones y de gran pureza. El carburo de silicio es una alternativa.
+La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficamente frente a la conductividad térmica, λ. Los contornos muestran valores constantes de la cantidad λ/α. Una región de búsqueda está aislada por la línea λ/α = 10<sup>7</sup>W/m, dando la pequeña lista de la tabla 6.30. Los valores de M<sub>2</sub> = E<sup>1/2</sup>/ρ leídos en el gráfico E-ρ se incluyen en la tabla. Entre los metales, el cobre, el tungsteno y la aleación especial de níquel Invar presentan los mejores valores de M<sub>1</sub>, pero tienen la desventaja de tener densidades elevadas y, por tanto, valores pobres de M<sub>2</sub>. La mejor elección es el silicio, disponible en grandes secciones y de gran pureza. El carburo de silicio es una alternativa.
     
 <div align="center">
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/DistorsionTermica/Imagenes/CartaDistorsionTermica.JPG width=75%"></br>
@@ -62,13 +62,13 @@ La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficam
 
 <div align="center">
   <sub>
-      Figura 6.30: Materiales para aparatos de medición de precisión. Los metales son menos buenos que la cerámica porque tienen frecuencias de vibración más bajas. El silicio puede ser la mejor opción.
+      Figura 6: Materiales para aparatos de medición de precisión. Los metales son menos buenos que la cerámica porque tienen frecuencias de vibración más bajas. El silicio puede ser la mejor opción.
   </sub>
 </div>
 
 <div align="center">
   <sup>
-      Tabla 6.30: Materiales para minimizar la distorsión térmica
+      Tabla 5: Materiales para minimizar la distorsión térmica
   </sup>
 </div>
 
