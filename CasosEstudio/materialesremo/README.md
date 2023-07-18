@@ -29,6 +29,19 @@ Hay otras limitaciones los remos se caen y las palas a veces chocan.
 
 El material debe ser lo suficientemente resistente como para resistirlo, por lo que los materiales quebradizos (aquellos con una tenacidad G1C inferior a 1 kJ/m2 ) son inaceptables. Teniendo en cuenta estos requisitos, resumidos en Tabla 6.1, ¿qué materiales elegiría para fabricar remos?
 
+### La selección
+
+La figura 6.2 muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
+
+<div align="center">
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=60%"></br>
+</div>
+
+La línea de selección del índice M tiene una pendiente de 2,; está colocada de forma que un pequeño grupo de materiales quede por encima de ella. Se trata de los materiales con los mayores valores de M y son éstos los que constituyen la mejor elección, siempre que satisfagan la otra restricción (un simple atributo-límite de tenacidad). 
+
+Contienen tres clases de materiales maderas, polímeros reforzados con carbono y ciertas cerámicas (Tabla 6.2).Los materiales cerámicos son frágiles; el gráfico de módulo de tenacidad de la figura 4.7 muestra que todos los materiales cerámicos son frágiles. no cumplen los requisitos de diseño. La recomendación es clara. Haga remos de madera o, mejor aún, de CFRP.
+
+
 <div align="center">
   <sup>
       Tabla 6.19: Requisitos de diseño para recipientes a presión seguros
