@@ -67,7 +67,7 @@ La presión máxima la soporta con mayor seguridad el material con mayor valor d
 
   $\ M_{3} = \frac{K_{1C}^{2}}{\sigma_{f}} $
  
-Tanto M<sub> 1 </sub> como M<sub> 2 </sub> pueden hacerse grandes haciendo que el límite elástico de la pared, σ<sub> f </sub>, sea muy pequeño: el plomo, por ejemplo, tiene valores altos de ambos, pero no lo elegirías para un recipiente a presión. Esto se debe a que la pared del recipiente debe ser debe ser lo más fina posible, tanto para ahorrar material como para que sea ligera. La pared más delgada, según la ecuación (6.42), es la que tiene el mayor límite elástico, σ<sub> f </sub>. Por lo tanto, también queremos maximizar
+Tanto M<sub> 1 </sub> como M<sub> 2 </sub> pueden hacerse grandes haciendo que el límite elástico de la pared, σ<sub> f </sub>, sea muy pequeño: el plomo, por ejemplo, tiene valores altos de ambos, pero no lo elegirías para un recipiente a presión. Esto se debe a que la pared del recipiente debe ser debe ser lo más fina posible, tanto para ahorrar material como para que sea ligera. La pared más delgada, según la ecuación, es la que tiene el mayor límite elástico, σ<sub> f </sub>. Por lo tanto, también queremos maximizar
 
   $\ M_{4} = \sigma_{f} $
     
