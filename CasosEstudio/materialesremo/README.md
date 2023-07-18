@@ -1,6 +1,10 @@
-## Recipientes a presión seguros[^1]
+## Materiales para Remos[^1]
 
-Los recipientes a presión, desde la lata de pintura más sencilla hasta la caldera más grande, son diseñados, por seguridad, para ceder o fugar antes de romperse. Los detalles de este método de diseño varían. Los recipientes a presión pequeños suelen diseñarse para permitir la fluencia general a una presión aún demasiado baja para provocar la propagación de cualquier grieta que pueda contener el recipiente (“Yield before break”); la distorsión causada por la fluencia es fácil de detectar y la presión puede ser liberada de forma segura. Con recipientes a presión de gran tamaño esto puede no ser posible. Sin embargo, el diseño seguro es alcanzado al asegurar que la grieta más pequeña que se propagará de forma inestable tiene una longitud mayor al espesor de la pared del recipiente (“Leak before break”); la fuga es detectada fácilmente, y liberará la presión gradualmente y por tanto de forma segura (Tabla 6.19). Los dos criterios llevan a diferenciar los índices de materiales. ¿Que son?  
+Antes de la energía de vapor, los barcos podían propulsarse a remo, a vela ,o con remos. Los remos ofrecían más control que los otros dos, cuyo potencial militar fue bien comprendido por los romanos., los vikingos y los venecianos. Poco a poco fueron participando caballeros(sobre todo los jóvenes caballeros de Oxford y Cambridge), sofisticando tantolas reglas y el equipamiento. El verdadero estímulo para el desarrollo de la barca y el remo llegó en 1900 con la proclamación del remo como deporte olímpico. Desde entonces ambos han aprovechado al máximo la artesanía y los materiales de su época. Pensemos, por ejemplo, en el remo.
+
+
+
+  
   
 <div align="center">
   <sup>
