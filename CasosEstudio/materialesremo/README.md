@@ -56,7 +56,7 @@ Contienen tres clases de materiales maderas, polímeros reforzados con carbono y
 
 <div align="center">
   <sup>
-      Tabla 1: Requisitos de diseño para recipientes a presión seguros
+    Tabla 1: Requisitos de diseño para recipientes a presión seguros
   </sup>
 </div>
 
