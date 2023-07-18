@@ -41,10 +41,15 @@ El material debe ser lo suficientemente resistente como para resistirlo, por lo 
 La figura 6.2 muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
 
 <div align="center">
-  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=60%"></br>
+  <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=40%"></br>
 </div>
 
-### Materiales para remos. El CFRP es mejor que la madera porque se puede controlar la estructura.
+
+<div align="center">
+  <sub>
+      Figura 6.20: El CFRP es mejor que la madera porque se puede conrolar la estructura.
+  </sub>
+</div>
 
 La línea de selección del índice M tiene una pendiente de 2; está colocada de forma que un pequeño grupo de materiales quede por encima de ella. Se trata de los materiales con los mayores valores de M y son éstos los que constituyen la mejor elección, siempre que satisfagan la otra restricción (un simple atributo-límite de tenacidad). 
 
@@ -59,9 +64,11 @@ Contienen tres clases de materiales maderas, polímeros reforzados con carbono y
 
 | Criterios | Descripción |
 | ------------- | ------------- |
-| Función  | Recipiente a presión (contener la presión p de forma segura)  |
-| Restricciones  | Radio R especificado  |
-| Objetivo  | Maximizar seguridad utilizando el criterio fluencia antes de ruptura o maximizar seguridad utilizando el criterio de fuga antes de ruptura  |
+| Función  | Remo (Viga lijera y rígida)  |
+| Restricciones  | Longitud L determinada|
+|                |Rigidez a la flexión S especificada|
+|                |Tenacidad G1c=1kJ/m2|
+| Objetivo  | Minimizar la masa de la rotula  |
 | Variables libres  | *Selección del material* |
 
 <div align="center">
