@@ -28,7 +28,6 @@ Así que ya lo tenemos: un remo es una viga rígida y un peso mínimo. El índic
 
 $\ M=\frac{E}{ρ} $
 
-
 Donde: E es el módulo de Young y ρ es la densidad. 
 Hay otras limitaciones los remos se caen y las palas a veces chocan. 
 
