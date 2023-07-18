@@ -53,10 +53,9 @@ La línea de selección del índice M tiene una pendiente de 2; está colocada d
 
 Contienen tres clases de materiales maderas, polímeros reforzados con carbono y ciertas cerámicas (Tabla 6.2).Los materiales cerámicos son frágiles; el gráfico de módulo de tenacidad de la figura 4.7 muestra que todos los materiales cerámicos son frágiles. no cumplen los requisitos de diseño. La recomendación es clara. Haga remos de madera o, mejor aún, de CFRP.
 
-
 <div align="center">
   <sup>
-    Tabla 1: Requisitos de diseño para recipientes a presión seguros
+      Tabla 1: Requisitos de diseño para fabricación de remos
   </sup>
 </div>
 
