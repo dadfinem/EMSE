@@ -13,13 +13,11 @@ Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elást
 
 <div align="center">
   <sub>
-     Un remo se diseña en función de la rigidez y peso lijero.
+    Figura 1: Un remo se diseña en función de la rigidez y peso lijero.
   </sub>
 </div>
 
-
-
-La parte superior de la figura muestra un remo: una pala o ''cuchara'' está unida a u un eje o ''telar'' que lleva un manguito y un collarín para proporcionar una posición en la esclusa. 
+La parte superior de la figura 1 muestra un remo: una pala o ''cuchara'' está unida a u un eje o ''telar'' que lleva un manguito y un collarín para proporcionar una posición en la esclusa. 
 La parte inferior de la figura muestra cómo se mide la rigidez del remo:
 
 Se cuelga un peso de 10 kg en el remo a 2,05 m del collarín y se mide la deflexión en este punto. Un remo blando se desviará casi 50 mm; uno duro, sólo 30mm.
@@ -38,19 +36,17 @@ El material debe ser lo suficientemente resistente como para resistirlo, por lo 
 
 ### La selección
 
-La figura muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
+La figura 2 se muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
 
 <div align="center">
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=40%"></br>
 </div>
 
-
 <div align="center">
   <sub>
-     El CFRP es mejor que la madera porque se puede conrolar la estructura.
+     Figura 2: El CFRP es mejor que la madera porque se puede conrolar la estructura.
   </sub>
 </div>
-
 
 
 La línea de selección del índice M tiene una pendiente de 2; está colocada de forma que un pequeño grupo de materiales quede por encima de ella. Se trata de los materiales con los mayores valores de M y son éstos los que constituyen la mejor elección, siempre que satisfagan la otra restricción (un simple atributo-límite de tenacidad). 
@@ -60,7 +56,7 @@ Contienen tres clases de materiales maderas, polímeros reforzados con carbono y
 
 <div align="center">
   <sup>
-      Tabla: Requisitos de diseño para recipientes a presión seguros
+      Tabla 1: Requisitos de diseño para recipientes a presión seguros
   </sup>
 </div>
 
