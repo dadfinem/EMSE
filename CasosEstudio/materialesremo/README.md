@@ -15,7 +15,7 @@ Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elást
 
 <div align="center">
   <sub>
-      Figura 6.20: Un remo se diseña en función de la rigidez y peso lijero.
+      Figura: Un remo se diseña en función de la rigidez y peso lijero.
   </sub>
 </div>
 
@@ -40,7 +40,7 @@ El material debe ser lo suficientemente resistente como para resistirlo, por lo 
 
 ### La selección
 
-La figura 6.2 muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
+La figura muestra el gráfico apropiado: aquel en el que el módulo de Young E frente a la densidad.
 
 <div align="center">
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=40%"></br>
@@ -49,7 +49,7 @@ La figura 6.2 muestra el gráfico apropiado: aquel en el que el módulo de Young
 
 <div align="center">
   <sub>
-      Figura 6.20: El CFRP es mejor que la madera porque se puede conrolar la estructura.
+     El CFRP es mejor que la madera porque se puede conrolar la estructura.
   </sub>
 </div>
 
