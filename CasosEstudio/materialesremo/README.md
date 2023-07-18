@@ -37,6 +37,8 @@ La figura 6.2 muestra el gráfico apropiado: aquel en el que el módulo de Young
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Carta%20densidad%20m%C3%B3dulo.jpg width=60%"></br>
 </div>
 
+### Materiales para remos. El CFRP es mejor que la madera porque se puede controlar la estructura.
+
 La línea de selección del índice M tiene una pendiente de 2; está colocada de forma que un pequeño grupo de materiales quede por encima de ella. Se trata de los materiales con los mayores valores de M y son éstos los que constituyen la mejor elección, siempre que satisfagan la otra restricción (un simple atributo-límite de tenacidad). 
 
 Contienen tres clases de materiales maderas, polímeros reforzados con carbono y ciertas cerámicas (Tabla 6.2).Los materiales cerámicos son frágiles; el gráfico de módulo de tenacidad de la figura 4.7 muestra que todos los materiales cerámicos son frágiles. no cumplen los requisitos de diseño. La recomendación es clara. Haga remos de madera o, mejor aún, de CFRP.
