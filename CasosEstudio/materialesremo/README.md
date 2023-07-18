@@ -11,7 +11,14 @@ Los remos se diseñan rigidez, es decir, para proporcionar una deflexión elást
   <br><img src=https://github.com/dadfinem/EMSE/blob/main/CasosEstudio/materialesremo/Im%C3%A1genes/Remo.jpg width=40%"></br>
 </div>
 
-### Un remo se diseña en función de la rigidez y peso lijero
+
+
+<div align="center">
+  <sub>
+      Figura 6.20: Un remo se diseña en función de la rigidez y peso lijero.
+  </sub>
+</div>
+
 
 La parte superior de la figura muestra un remo: una pala o ''cuchara'' está unida a u un eje o ''telar'' que lleva un manguito y un collarín para proporcionar una posición en la esclusa. 
 La parte inferior de la figura muestra cómo se mide la rigidez del remo:
