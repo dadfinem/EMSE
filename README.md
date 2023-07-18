@@ -92,9 +92,10 @@ A continuación se pueden explorar algunos ejemplos de la aplicación de la meto
 
   | Caso | Descripción |
   | --- | --- |
+  | [Materiales para remos](CasosEstudio/materialesremo) | Se describe el proceso de selección de material para fabricación de remos
   | [Recipientes a presión seguros](CasosEstudio/RecipientesPresion) | Se describe el proceso de selección de material para la construcción de recipientes a presión haciendo énfasis en la seguridad de estos componentes |
   | [Materiales para minimizar la distorsión térmica en dispositivos de precisión](CasosEstudio/DistorsionTermica) | Se describe el proceso de selección de material para minimizar la distorsión térmica en dispositivos de precisión |
-   | [Materiales para remos](CasosEstudio/materialesremo) | Se describe el proceso de selección de material para fabricación de remos|
+   
 
 
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
