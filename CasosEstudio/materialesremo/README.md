@@ -43,7 +43,7 @@ La figura 2 se muestra el gráfico apropiado: aquel en el que el módulo de Youn
 
 <div align="center">
   <sub>
-     Figura 2: El CFRP es mejor que la madera porque se puede conrolar la estructura.
+     Figura 2: El CFRP es mejor que la madera porque se puede controlar la estructura.
   </sub>
 </div>
 
