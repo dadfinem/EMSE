@@ -101,7 +101,7 @@ A continuación se pueden explorar algunos ejemplos de la aplicación de la meto
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBannerCertificado.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
-<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/dadfinem/EMSE/blob/main/Imagenes/boton-certificados.png" alt="R.LTWB" width="50%" border="0" /></a></div>
+
 
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https:https://github.com/dadfinem/EMSE/blob/main/Imagenes/Logotipo-Escuela-Colombiana-de-Ingenier%C3%ADa-Julio-Garavito-2.jpg alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
