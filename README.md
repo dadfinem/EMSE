@@ -24,7 +24,7 @@ El objetivo del este curso es comprender en términos generales, la naturaleza, 
 
 Además, se desea entender las implicaciones técnicas y la importancia tecnológica de la selección de materiales y el análisis de falla a partir del desarrollo habilidades en la interpretación de variables y defectos utilizando técnicas de ensayos no destructivos, haciendo énfasis en la correcta implementación de técnicas de evaluación In-Situ y ensayos no destructivos como producto de la correcta combinación de conocimientos teóricos y prácticos de selección de materiales así como de análisis de falla.
 
-
+[![Alt text](https://img.youtube.com/vi/MMYPImJmMW4/0.jpg)](https://www.youtube.com/watch?v=MMYPImJmMW4)
 
 
 
