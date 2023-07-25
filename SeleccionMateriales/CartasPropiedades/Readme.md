@@ -376,4 +376,5 @@ El valor de las constantes C aumenta a medida que las líneas se desplazan hacia
 <div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/dadfinem/EMSE/blob/main/Imagenes/boton-certificados.png" alt="R.LTWB" width="50%" border="0" /></a></div>
 
 ##
-  <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Logotipo.jpg alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
+
