@@ -26,7 +26,7 @@ Cuando un remero encarga un remo, especifica su dureza. El remo también debe se
 
 Así que ya lo tenemos: un remo es una viga rígida y un peso mínimo. El índice de material que queremos:
 
-$\ M=\frac{E}{ρ} $
+$\ M=\frac{{E}^{0,5}}{ρ} $
 
 Donde: E es el módulo de Young y ρ es la densidad. 
 Hay otras limitaciones los remos se caen y las palas a veces chocan. 
