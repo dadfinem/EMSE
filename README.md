@@ -20,8 +20,6 @@ El ingeniero debe a su vez desarrollar habilidades para tomar las mejores decisi
 
 El objetivo del este curso es comprender en términos generales, la naturaleza, origen y evolución de los principales materiales, así como conocer la influencia de las propiedades físicas de los materiales como criterio para la selección de materiales a partir de su interpretación con el fin de satisfacer la necesidad de diseño. Todo esto con el fin de comprender el procedimiento de selección de materiales, estableciendo el vínculo entre el material y su función.
 
-[![Alt text](https://img.youtube.com/vi/TlJNaN42I_c/0.jpg)](https://www.youtube.com/watch?v=TlJNaN42I_c)
-
 Además, se desea entender las implicaciones técnicas y la importancia tecnológica de la selección de materiales y el análisis de falla a partir del desarrollo habilidades en la interpretación de variables y defectos utilizando técnicas de ensayos no destructivos, haciendo énfasis en la correcta implementación de técnicas de evaluación In-Situ y ensayos no destructivos como producto de la correcta combinación de conocimientos teóricos y prácticos de selección de materiales así como de análisis de falla.
 
 [![Alt text](https://img.youtube.com/vi/MMYPImJmMW4/0.jpg)](https://www.youtube.com/watch?v=MMYPImJmMW4)
