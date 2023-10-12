@@ -1,3 +1,11 @@
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Centro%20de%20Estudios%20en%20Procesos%20para%20la%20Fabricaci%C3%B3n%20de%20Elementos%20Mec%C3%A1nicos%20.jpg width="80%">
+</div>
+
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/BannerCurso.png width="80%">
+</div>
+
 ## Materiales para Remos[^1]
 
 Antes de la energía de vapor, los barcos podían propulsarse, a vela ,o con remos. Los remos ofrecían más control que los otros dos, cuyo potencial militar fue bien comprendido por los romanos., los vikingos y los venecianos. Poco a poco fueron participando caballeros(sobre todo los jóvenes caballeros de Oxford y Cambridge), sofisticando tantolas reglas y el equipamiento. El verdadero estímulo para el desarrollo de la barca y el remo llegó en 1900 con la proclamación del remo como deporte olímpico. Desde entonces ambos han aprovechado al máximo la artesanía y los materiales de su época. Pensemos, por ejemplo, en el remo.
