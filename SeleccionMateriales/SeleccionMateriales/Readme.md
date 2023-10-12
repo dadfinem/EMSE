@@ -1,3 +1,11 @@
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Centro%20de%20Estudios%20en%20Procesos%20para%20la%20Fabricaci%C3%B3n%20de%20Elementos%20Mec%C3%A1nicos%20.jpg width="80%">
+</div>
+
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/BannerCurso.png width="80%">
+</div>
+
 ## Selección de Materiales[^1]
 
 Se establece el procedimiento básico de selección, estableciendo el vínculo entre el material y la función. Un material tiene atributos: su densidad, resistencia, coste, resistencia a la corrosión, etc. Un diseño exige un cierto perfil de estos: una baja densidad, una alta resistencia, un coste modesto y resistencia al agua de mar, tal vez. Es importante comenzar con el menú completo de materiales en mente; el no hacerlo puede significar una oportunidad perdida. Si un se debe tomar una decisión innovadora, que debe ser identificada en las primeras etapas del proceso de diseño. Más tarde, se han tomado demasiadas decisiones y se han asumido
