@@ -1,3 +1,11 @@
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/Centro%20de%20Estudios%20en%20Procesos%20para%20la%20Fabricaci%C3%B3n%20de%20Elementos%20Mec%C3%A1nicos%20.jpg width="80%">
+</div>
+
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/dadfinem/EMSE/blob/main/Imagenes/BannerCurso.png width="80%">
+</div>
+
 ## Selección de materiales para minimizar la distorsión térmica en dispositivos de presición[^1]
 
 La precisión de un dispositivo de medición, como un medidor de desplazamiento submicrométrico, está limitada por su rigidez y por el cambio dimensional provocado por los gradientes de temperatura. Es posible compensar la desviación elástica y realizar correcciones para hacer frente a la dilatación térmica, siempre que el dispositivo esté a una temperatura uniforme. Los gradientes térmicos son el verdadero problema: provocan un cambio de forma, es decir, una deformación del dispositivo, que no se puede compensar. La sensibilidad a las vibraciones también es un problema: la excitación natural introduce ruido y, por tanto, imprecisión en la medición. Por tanto, es permisible que se produzca una expansión al realizar diseño de instrumentos de precisión, siempre que no se produzca distorsión (Chetwynd, 1987). Se permite la deflexión elástica siempre que las frecuencias naturales de vibración sean altas.
