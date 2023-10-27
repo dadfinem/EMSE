@@ -92,10 +92,7 @@ La figura 6.30 muestra el coeficiente de dilatación, α, representado gráficam
 
 Los sistemas de medición e imagen a escala nanométrica presentan el problema analizado aquí. El microscopio de fuerza atómica y el microscopio de túnel de barrido se basan en una sonda apoyada en un bucle de fuerza, normalmente con un actuador piezoeléctrico y un sistema electrónico que detecta la proximidad de la sonda a la superficie. Más cerca de casa, el mecanismo de una grabadora de vídeo y el de una unidad de disco duro son instrumentos de precisión; ambos tienen un sensor (el cabezal de lectura) unido, con su electrónica asociada, a un bucle de fuerza. Los materiales identificados en este estudio son la mejor elección para el bucle de fuerza.  
     
-    
-
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
-<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/EC_LOCALIZACION_RE.LC_FRM_ADMEDCO_FL.GBL" target="_blank"><img src="https://github.com/dadfinem/EMSE/blob/main/Imagenes/boton-certificados.png" alt="R.LTWB" width="25%" border="0" /></a></div>
 
 
 ##
